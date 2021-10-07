@@ -18,7 +18,7 @@
 </p>
 
 ## :computer: Projeto
-Tela de login inspirado no Google. Projeto realizado durante o módulo **Bootstrap 4** do curso [FullStack da B7Web](https://b7web.com.br/fullstack/).Lembrando que este projeto é somente para fins de estudo.
+Tela de login inspirada no [Google](https://www.google.com/). Projeto realizado durante o módulo **Bootstrap 4** do curso [FullStack da B7Web](https://b7web.com.br/fullstack/). Lembrando que este projeto é somente para fins de estudo.
 
 ## :rocket: Tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
