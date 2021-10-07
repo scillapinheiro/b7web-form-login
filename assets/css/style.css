@@ -1,0 +1,43 @@
+body {
+    min-height: 100vh;
+    background-color: #EEEEEE;
+
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.area {
+    width: 100%;
+    max-width: 360px;
+
+    text-align: center;
+
+    padding: 20px;
+}
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+h3 {
+    margin: 30px 0 20px 0;
+}
+
+.form-control:first-child {
+    margin-bottom: 3px;
+}
+
+.remember {
+    margin: 20px 0;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.grey {
+    color: #999999;
+
+    margin-top: 40px;
+}
